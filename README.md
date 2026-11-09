@@ -6,6 +6,6 @@ I'm a postdoctoral researcher at **Ifremer, Station de Sète - UMR MARBEC** (Uni
 - 🌍 My current focus is predicting species vulnerability and turning that knowledge into practical, adaptive conservation and fisheries management.
 - 🌊 I contribute to [ocean3d](https://github.com/Marine-Biodiversity-Conservation-Lab/ocean3d), an R package, developing both functions and [tutorials and documentation](https://marine-biodiversity-conservation-lab.github.io/ocean3d/).
 - 📊 I share code from my research on shark mortality ([modelling](https://github.com/davidruizgarci/Shark_predictAVM) and [risk assessment](https://github.com/davidruizgarci/MortalityRiskAssess)) and [species distributions](https://github.com/davidruizgarci/PotentialSpawningAreas).
-- 🎨 On the side, I'm learning to build websites. I designed and coded [Art Mediterrani](https://github.com/artmediterrani/artmediterrani.github.io).
+- 🎨 On the side, I'm learning to build websites. I designed and coded [Art Mediterrani](https://artmediterranibyroberto.com/).
 
 Always happy to connect about marine conservation, fisheries and R - you'll find my links in the profile sidebar.
